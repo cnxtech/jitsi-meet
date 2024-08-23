@@ -65,7 +65,7 @@
     "react-emoji-render": "0.4.6",
     "react-i18next": "10.11.4",
     "react-linkify": "1.0.0-alpha",
-    "react-native": "0.59.8",
+    "react-native": "0.75.2",
     "react-native-background-timer": "2.1.1",
     "react-native-calendar-events": "1.6.4",
     "react-native-callstats": "3.61.0",
@@ -118,9 +118,9 @@
     "precommit-hook": "3.0.0",
     "string-replace-loader": "2.1.1",
     "style-loader": "0.19.0",
-    "webpack": "4.26.1",
+    "webpack": "5.94.0",
     "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.14"
+    "webpack-dev-server": "5.0.4"
   },
   "engines": {
     "node": ">=8.0.0",
